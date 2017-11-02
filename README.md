@@ -3,4 +3,5 @@
 Setting up 
 * `npm init` in chosen folder
 * Install dependencies `npm install express body-parser ejs mongojs --save`
-* Create our main back-end server file - `server.js`
+* Create our main back-end server file - `server.js` and configure it with app settings.
+* Run server with `node server`.
